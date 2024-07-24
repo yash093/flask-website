@@ -10,7 +10,7 @@ A simple notes application built with Flask to help you manage your notes easily
 
 ## Demo
 
-![Demo Image](path_to_your_demo_image.gif)
+![Demo Image](https://github.com/yash093/flask-website/blob/main/website/static/Screenshot%20from%202024-07-24%2009-50-55.png)
 
 ## Installation
 
